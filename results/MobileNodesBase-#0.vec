@@ -1,8 +1,8 @@
 version 3
-run MobileNodesBase-0-20241209-23:19:57-16036
+run MobileNodesBase-0-20241210-10:31:10-6428
 attr configname MobileNodesBase
-attr datetime 20241209-23:19:57
-attr datetimef 20241209-231957
+attr datetime 20241210-10:31:10
+attr datetimef 20241210-103110
 attr experiment MobileNodesBase
 attr inifile omnetpp.ini
 attr iterationvars ""
@@ -10,7 +10,7 @@ attr iterationvarsd ""
 attr iterationvarsf ""
 attr measurement ""
 attr network ManetprotocolsShowcaseB
-attr processid 16036
+attr processid 6428
 attr repetition 0
 attr replication #0
 attr resultdir results
